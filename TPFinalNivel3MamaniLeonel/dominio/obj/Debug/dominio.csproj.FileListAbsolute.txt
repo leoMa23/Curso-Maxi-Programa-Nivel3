@@ -1,0 +1,12 @@
+C:\Users\yo\Desktop\TPFinalNivel2_Mamani\dominio\bin\Debug\dominio.dll
+C:\Users\yo\Desktop\TPFinalNivel2_Mamani\dominio\bin\Debug\dominio.pdb
+C:\Users\yo\Desktop\TPFinalNivel2_Mamani\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\yo\Desktop\TPFinalNivel2_Mamani\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\yo\Desktop\TPFinalNivel2_Mamani\dominio\obj\Debug\dominio.dll
+C:\Users\yo\Desktop\TPFinalNivel2_Mamani\dominio\obj\Debug\dominio.pdb
+C:\Users\yo\Desktop\TP3\TPFinalNivel3MamaniLeonel\dominio\bin\Debug\dominio.dll
+C:\Users\yo\Desktop\TP3\TPFinalNivel3MamaniLeonel\dominio\bin\Debug\dominio.pdb
+C:\Users\yo\Desktop\TP3\TPFinalNivel3MamaniLeonel\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\yo\Desktop\TP3\TPFinalNivel3MamaniLeonel\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\yo\Desktop\TP3\TPFinalNivel3MamaniLeonel\dominio\obj\Debug\dominio.dll
+C:\Users\yo\Desktop\TP3\TPFinalNivel3MamaniLeonel\dominio\obj\Debug\dominio.pdb

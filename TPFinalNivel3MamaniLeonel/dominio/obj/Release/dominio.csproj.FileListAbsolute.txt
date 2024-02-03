@@ -1,0 +1,6 @@
+C:\Users\yo\Desktop\TP3\TPFinalNivel3MamaniLeonel\dominio\bin\Release\dominio.dll
+C:\Users\yo\Desktop\TP3\TPFinalNivel3MamaniLeonel\dominio\bin\Release\dominio.pdb
+C:\Users\yo\Desktop\TP3\TPFinalNivel3MamaniLeonel\dominio\obj\Release\dominio.csproj.AssemblyReference.cache
+C:\Users\yo\Desktop\TP3\TPFinalNivel3MamaniLeonel\dominio\obj\Release\dominio.csproj.CoreCompileInputs.cache
+C:\Users\yo\Desktop\TP3\TPFinalNivel3MamaniLeonel\dominio\obj\Release\dominio.dll
+C:\Users\yo\Desktop\TP3\TPFinalNivel3MamaniLeonel\dominio\obj\Release\dominio.pdb

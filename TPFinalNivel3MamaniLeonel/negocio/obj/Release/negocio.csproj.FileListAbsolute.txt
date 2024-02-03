@@ -1,0 +1,9 @@
+C:\Users\yo\Desktop\TP3\TPFinalNivel3MamaniLeonel\negocio\bin\Release\negocio.dll
+C:\Users\yo\Desktop\TP3\TPFinalNivel3MamaniLeonel\negocio\bin\Release\negocio.pdb
+C:\Users\yo\Desktop\TP3\TPFinalNivel3MamaniLeonel\negocio\bin\Release\dominio.dll
+C:\Users\yo\Desktop\TP3\TPFinalNivel3MamaniLeonel\negocio\bin\Release\dominio.pdb
+C:\Users\yo\Desktop\TP3\TPFinalNivel3MamaniLeonel\negocio\obj\Release\negocio.csproj.AssemblyReference.cache
+C:\Users\yo\Desktop\TP3\TPFinalNivel3MamaniLeonel\negocio\obj\Release\negocio.csproj.CoreCompileInputs.cache
+C:\Users\yo\Desktop\TP3\TPFinalNivel3MamaniLeonel\negocio\obj\Release\negocio.csproj.CopyComplete
+C:\Users\yo\Desktop\TP3\TPFinalNivel3MamaniLeonel\negocio\obj\Release\negocio.dll
+C:\Users\yo\Desktop\TP3\TPFinalNivel3MamaniLeonel\negocio\obj\Release\negocio.pdb
